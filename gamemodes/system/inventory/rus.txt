@@ -1,0 +1,8 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\inventory\inventory_@core.pwn(2) : ôàòàëüíàÿ îøèáêà 100: íåâîçìîæíî ïðî÷åñòü ôàéë: "./system/inventory/inventory_@variables.pwn"
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:1.

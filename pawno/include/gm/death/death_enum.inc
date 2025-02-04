@@ -1,0 +1,28 @@
+enum DAMAGE_ENUM
+{
+	damageOn,
+	damageWeapon,
+	damageBodypart,
+	Float:damageAmount,
+	damageArmour,
+	damageTime,
+	damageBy[MAX_PLAYER_NAME]
+};
+new DamageInfo[MAX_PLAYERS][MAX_DAMAGES][DAMAGE_ENUM];
+
+
+new bool:BedOccupied[MAX_HOSPITALBEDS];
+
+new Float:HospitalBeds[MAX_HOSPITALBEDS][3] = 
+{
+{1224.7802,314.4634,20.3436},
+{1226.1810,317.2133,20.3436},
+{1227.2555,320.1270,20.3436},
+{1228.7682,322.7384,20.3436},
+{1229.7136,325.5920,20.3436},
+{1242.1256,320.1364,20.3436},
+{1240.7095,317.5941,20.3436},
+{1239.6102,314.6470,20.3436},
+{1238.2305,311.8328,20.3436},
+{1236.9650,309.1951,20.3436}
+};

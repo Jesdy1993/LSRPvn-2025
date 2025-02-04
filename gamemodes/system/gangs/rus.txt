@@ -1,0 +1,12 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\gangs\weapon_dealer.pwn(11) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_FAMILY"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\gangs\weapon_dealer.pwn(36) : îøèáêà 021: èäåíòèôèêàòîð "opendeal" óæå îáúÿâëåí
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\gangs\weapon_dealer.pwn(36) -- (42) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\gangs\weapon_dealer.pwn(36) -- (45) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\gangs\weapon_dealer.pwn(36) -- (45) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:5.

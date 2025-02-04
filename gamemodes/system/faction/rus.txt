@@ -1,0 +1,42 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_debug.inc(276) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_debug.inc(338) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_debug.inc(343) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_amx.inc(442) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_amx.inc(892) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_amx.inc(914) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_utils.inc(237) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_utils.inc(360) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_utils.inc(387) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\pawno\include\YSI\y_utils.inc(466) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "str" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(13) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "stop"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(13) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(15) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "stop"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(15) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(22) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "stop"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(22) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(23) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "stop"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(23) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(38) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(72) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(72) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(75) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "-identifier-"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(77) : îøèáêà 021: èäåíòèôèêàòîð "format" óæå îáúÿâëåí
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(80) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(81) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(84) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(85) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(88) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(94) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(104) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(106) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "zone" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(106) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(106) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(106) -- (123) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\faction\alpr.pwn(106) -- (123) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:20.

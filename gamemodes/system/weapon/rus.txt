@@ -1,0 +1,9 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\weapon\buy_weapon.pwn(15) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DIALOG_BUYWEAPON"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\weapon\buy_weapon.pwn(46) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DIALOG_BUY_AMMO"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\weapon\buy_weapon.pwn(62) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DIALOG_CF_WEAPON"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\weapon\buy_weapon.pwn(1) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "abuyweapon"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\weapon\buy_weapon.pwn(1) -- (103) : îøèáêà 013: îòñóòñòâóåò òî÷êà âõîäà (íåò public-ôóíêöèé)
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:1.

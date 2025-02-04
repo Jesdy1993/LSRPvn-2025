@@ -1,0 +1,12 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\vehicle\dealer.pwn(54) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "VehicleName"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\vehicle\dealer.pwn(54) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\vehicle\dealer.pwn(54) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "]"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\vehicle\dealer.pwn(54) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\vehicle\dealer.pwn(54) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:4.

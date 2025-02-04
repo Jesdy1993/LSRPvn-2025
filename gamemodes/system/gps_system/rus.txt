@@ -1,0 +1,10 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gps_system\gps.pwn(40) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GPS_SYSTEM"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gps_system\gps.pwn(66) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GPS_SYSTEM_JOB"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gps_system\gps.pwn(75) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "GPS_SYSTEM_WAY"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gps_system\gps.pwn(85) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "xoaneardoor"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gps_system\gps.pwn(138) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "xoaneargate"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gps_system\gps.pwn(138) -- (208) : îøèáêà 013: îòñóòñòâóåò òî÷êà âõîäà (íåò public-ôóíêöèé)
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:1.

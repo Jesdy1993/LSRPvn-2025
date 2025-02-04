@@ -1,0 +1,10 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\new_job\shipment.pwn(82) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\new_job\shipment.pwn(169) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DIALOG_SHIPMENT"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\new_job\shipment.pwn(103) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "createaship"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\new_job\shipment.pwn(83) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "muahang"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\new_job\shipment.pwn(129) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "shipment"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\system\new_job\shipment.pwn(129) -- (199) : îøèáêà 013: îòñóòñòâóåò òî÷êà âõîäà (íåò public-ôóíêöèé)
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:2.

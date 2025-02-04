@@ -1,0 +1,18 @@
+// TextDraw developed using Zamaroht's Textdraw Editor 1.0
+
+// The fuction `PlayerTextDraw´ add by adri1
+// On top of script:
+new PlayerText:Textdraw0;
+
+// In OnPlayerConnect prefferably, we procced to create our textdraws:
+Textdraw0 = CreatePlayerTextDraw(playerid,617.000000, 2.000000, "100");
+PlayerTextDrawBackgroundColor(playerid,Textdraw0, 255);
+PlayerTextDrawFont(playerid,Textdraw0, 3);
+PlayerTextDrawLetterSize(playerid,Textdraw0, 0.370000, 1.200000);
+PlayerTextDrawColor(playerid,Textdraw0, -65281);
+PlayerTextDrawSetOutline(playerid,Textdraw0, 1);
+PlayerTextDrawSetProportional(playerid,Textdraw0, 1);
+PlayerTextDrawSetSelectable(playerid,Textdraw0, 0);
+
+// You can now use PlayerTextDrawShow, PlayerTextDrawHide and
+// PlayerTextDrawDestroy functions to show, hide, and destroy the textdraw.

@@ -1,0 +1,37 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(7065) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(27) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "strpack"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(31) : îøèáêà 035: íåñîâïàäåíèå òèïîâ àðãóìåíòîâ (àðãóìåíò 1)
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(32) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "strpack"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(64) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawUseBox"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(65) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawLetterSize"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(66) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawFont"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(67) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawSetShadow"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(68) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(68) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawSetOutline"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(69) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawColor"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(70) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawBackgroundColor"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(62) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "txtInit"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(76) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "txtSanAndreas"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(76) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawCreate"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(77) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "txtSanAndreas"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(78) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "txtTierraRobada"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(78) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawCreate"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(79) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "txtTierraRobada"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(82) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "txtNationSelHelper"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(82) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawCreate"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(84) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawUseBox"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(85) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawBoxColor"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(86) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawLetterSize"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(87) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawTextSize"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(88) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawFont"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(89) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawSetShadow"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(90) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(90) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawSetOutline"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\LSRPvn2024\gamemodes\main\functions.pwn(91) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawBackgroundColor"
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

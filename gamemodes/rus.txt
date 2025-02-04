@@ -1,0 +1,71 @@
+./system/bodydame/bodydamage.pwn(164) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+./main/functions.pwn(6831) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+./main/functions.pwn(7078) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+./system/anti_hack/troll_car.pwn(40) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./system/player_system/settings.pwn(150) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/house/furniture.pwn(945) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/house/furniture.pwn(955) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/house/furniture.pwn(1139) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "str"
+./system/faction/alpr.pwn(85) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/inventory/inventory_@pd.pwn(24) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./system/gangs/weapon_dealer.pwn(189) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "boxid"
+./system/new_job/pizza.pwn(109) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "strr"
+./system/new_job/pizza.pwn(147) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "strr"
+./system/new_job/trashman.pwn(116) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "str"
+./system/new_job/shipment.pwn(174) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "str"
+./system/new_job/shipment.pwn(206) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "str"
+./system/new_job/shipment.pwn(343) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/new_job/shipment.pwn(345) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/new_job/fish.pwn(91) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/new_job/fish.pwn(93) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/new_job/fish.pwn(94) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/new_job/fish.pwn(87) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string2"
+./system/new_job/fish.pwn(87) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./system/new_job/fish.pwn(106) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "playerid"
+./system/new_job/anti_bug.pwn(1) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "vehicleid"
+./system/bodydame/bodydamage.pwn(34) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "ar_last"
+./system/bodydame/bodydamage.pwn(20) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ArmourBroken"
+./system/company/casino.pwn(222) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "givep"
+./system/company/casino.pwn(586) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "str"
+./system/company/casino.pwn(578) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "chat"
+./system/company/casino.pwn(578) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "col5"
+./system/company/casino.pwn(578) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "casinoid"
+./system/company/baicao.pwn(401) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/vehicle/mechanic.pwn(175) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/vehicle/mechanic.pwn(282) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./main/functions.pwn(1099) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "type"
+./main/functions.pwn(4376) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./main/functions.pwn(4377) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./main/functions.pwn(7475) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+./main/functions.pwn(15125) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "szTrasStr"
+./main/functions.pwn(16112) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./main/functions.pwn(16114) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./main/command.pwn(30668) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./main/command.pwn(39499) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "radiotext"
+./main/_funcs.pwn(4088) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./main/_funcs.pwn(8227) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+./system/bank/rob_atm.pwn(11) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ATMSmokeObj"
+./main/variables.pwn(1609) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "CraftActor"
+./system/faction/beanbag.pwn(10) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DangBiTazer"
+./main/variables.pwn(1603) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "InfoMessage"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(103) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "LOGSDiscord"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(7286) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "MapCam"
+./main/variables.pwn(2316) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "PizzaVehicles"
+./main/variables.pwn(151) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "SelectTypeEditor"
+C:\Users\nguye\Downloads\LSRPvn2024\pawno\include\td-streamer-internal.inc(60) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "TDDefaultProperties"
+./main/variables.pwn(883) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "canhsat"
+./main/variables.pwn(153) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "cuozg"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(91) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "job_Electricity"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(90) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "job_Trashman"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(233) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "label_regveh"
+./system/discord/main.pwn(4) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "log_Login"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(78) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "log_astats"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(82) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "log_avip"
+c:\Users\nguye\Downloads\LSRPvn2024\gamemodes\lsrvn.pwn(70) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "logs_mechtrade"
+./main/variables.pwn(1606) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "npcvukhizz"
+./main/variables.pwn(3) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "playerBandage"
+./system/faction/ticket/ticket_txd.pwn(3) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "ticket_txd"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:3.

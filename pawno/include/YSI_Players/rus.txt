@@ -1,0 +1,5 @@
+C:\Users\cuozg7\Desktop\gg\pawno\include\YSI_Players\y_android.inc(94) : îøèáêà 013: îòñóòñòâóåò òî÷êà âõîäà (íåò public-ôóíêöèé)
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:1.

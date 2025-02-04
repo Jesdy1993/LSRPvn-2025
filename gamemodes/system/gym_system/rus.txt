@@ -1,0 +1,20 @@
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(15) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(16) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(18) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "-identifier-"
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(19) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(21) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(23) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(25) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(27) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(30) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(31) : îøèáêà 008: äîëæíî áûòü ïîñòîÿííûì âûðàæåíèåì; ïðèíÿò íîëü
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(31) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(31) -- (33) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\hahau\Desktop\Project LSR\Work in\LSRP\gamemodes\system\gym_system\gym_system.pwn(31) -- (33) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:13.
